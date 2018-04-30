@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NeoApplication</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="error_input">Please Enter field value</string>
+    <string name="login_success">Login successful</string>
+    <string name="login_unsuccessful">Login unSuccessful</string>
+</resources>
